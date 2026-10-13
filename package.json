@@ -1,0 +1,15 @@
+{
+  "name": "opencode",
+  "version": "1.0.0",
+  "main": "add-icons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@electric-sql/pglite": "^0.5.8"
+  }
+}
